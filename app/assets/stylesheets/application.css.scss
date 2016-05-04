@@ -17,7 +17,8 @@
 @import 'normalize';
 
 html, body {
-	font-family: 'PT Sans Narrow', sans-serif;
+	//font-family: 'PT Sans Narrow', sans-serif;
+	font-family: 'Raleway' !important, Arial, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -30,6 +31,7 @@ a {
 }
 
 #sidebar {
+    font-family: "Raleway" !important, Arial, sans-serif;;
 	width: 200px;
 	position: fixed;
 	left: 0;
